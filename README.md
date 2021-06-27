@@ -1,6 +1,8 @@
   CLI APP
 # Know your Friend Quiz
 
+## This is a quiz project. It has total 10 question. With negativee marking of 1 marks on every wrong answer.
+
 
 Details: 
 1. Total 5 Questions.
