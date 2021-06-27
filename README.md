@@ -1,6 +1,7 @@
   CLI APP
 # Know your Friend Quiz
 
+
 Details: 
 1. Total 5 Questions.
 1. Each carrying 1 Marks.
