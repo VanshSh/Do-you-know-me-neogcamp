@@ -1,17 +1,26 @@
-  CLI APP
-# Know your Friend Quiz
+<div align="center"><h1> Do You Know Me ? </h1></div>
 
-## This is a quiz project. It has total 10 question. With negativee marking of 1 marks on every wrong answer.
+This is simple CLI quiz App.
+
+This quiz has 5 questions about me for every correct question you will be awarded with  2 points.
 
 
-Details: 
-1. Total 5 Questions.
-1. Each carrying 1 Marks.
-1. Programmed using Nodejs.
+## [LIVE APP](https://replit.com/@sharmavansh/Do-you-know-me-M1-neogcamp#index.js?embed=1&output=1)
 
-Module:
-1. readline-sync.
-1. CHALK.
+---
+![Demo Image](./images/demo.png)
 
-Check it out here : [Know Your friend](https://replit.com/@sharmavansh/Know-your-Friend-M1-neogcamp#index.js?embed=1&output=1)
+---
 
+<h3> Tech used: </h3>
+1. HTML<br/>
+2. CSS<br/>
+3. JavaScript<br/>
+4. Chalk package for colors 
+
+---
+
+Contact :
+
+- [Twitter](https://twitter.com/Vanshsh2701)
+- [Linkedin](https://www.linkedin.com/in/vanshsharma27/)
